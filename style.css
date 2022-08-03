@@ -1,0 +1,14 @@
+body {background-color: lightcyan;}
+.nome {
+  font-style: courier;
+}
+h1 {
+  font-style: ;
+}
+.pe {
+  border: 2px solid blue;
+  padding: 15px;
+}
+header {
+  display: inline-block;
+}
